@@ -1,4 +1,4 @@
-|mac|seq|id|len|power|timestamp|OUI|random|vendor
+index|mac|seq|id|len|power|timestamp|OUI|random|vendor
 0|da:a1:19:f4:46:b5|587|3|1|-65|1579269364.130873|da:a1:19|True|Google, Inc.
 1|da:a1:19:f4:46:b5|587|50|4|-65|1579269364.130873|da:a1:19|True|Google, Inc.
 2|da:a1:19:f4:46:b5|591|3|1|-65|1579269364.295907|da:a1:19|True|Google, Inc.
